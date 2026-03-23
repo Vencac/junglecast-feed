@@ -1,0 +1,17 @@
+{
+  "track_name": "Ephemeral Drift",
+  "bpm": 160,
+  "key": "C minor",
+  "duration_seconds": 168,
+  "mood": "Melancholic, Uplifting",
+  "arrangement_notes": "Starts with ethereal pads and delicate percussion, gradually building ambience. A subtle riser leads into the first drop, featuring a soulful, rolling amen break and lush melodic synths. A short, airy breakdown with evolving pads and a sparse drum rhythm creates space, before a more energetic build leads into the second drop, which introduces subtle vocal textures and a slightly more prominent bassline. The track fades out smoothly with echoing melodic elements and atmospheric textures.",
+  "intro_bars": 16,
+  "build_bars": 8,
+  "drop1_bars": 32,
+  "breakdown_bars": 16,
+  "drop2_bars": 32,
+  "outro_bars": 8,
+  "subgenre": "liquid drum and bass",
+  "artist": "Your Friendly Neighbourhood Jungle Bot",
+  "album": "The JungleCast Files 2026"
+}
