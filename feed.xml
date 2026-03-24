@@ -17,10 +17,20 @@
     </image>
     <link>https://Vencac.github.io/junglecast-feed</link>
     <atom:link href="https://Vencac.github.io/junglecast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Mar 2026 22:43:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 14:54:00 +0000</lastBuildDate>
     <item>
-      <title>JungleCast - Ephemeral Drift</title>
-      <description>Ephemeral Drift - A liquid drum and bass track at 160 BPM, Melancholic, Uplifting mood, in C minor.</description>
+      <title>JungleCast - Logic Bomb</title>
+      <description>Logic Bomb - A techstep track at 170 BPM, dark intricate driving mood, in F minor.</description>
+      <pubDate>Tue, 24 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/junglecast-feed/audio/jungle_2026-03-24.mp3" length="5670536" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/junglecast-feed/audio/jungle_2026-03-24.mp3</guid>
+      <itunes:duration>2:09</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/junglecast-feed/cover.jpeg"/>
+      <itunes:author>Your Friendly Neighbourhood Jungle Bot</itunes:author>
+    </item>
+    <item>
+      <title>JungleCast - 2026-03-23</title>
+      <description>AI-generated jungle track for 2026-03-23.</description>
       <pubDate>Mon, 23 Mar 2026 06:00:00 +0000</pubDate>
       <enclosure url="https://Vencac.github.io/junglecast-feed/audio/jungle_2026-03-23.mp3" length="6585257" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/junglecast-feed/audio/jungle_2026-03-23.mp3</guid>
