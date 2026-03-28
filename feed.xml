@@ -17,7 +17,17 @@
     </image>
     <link>https://Vencac.github.io/junglecast-feed</link>
     <atom:link href="https://Vencac.github.io/junglecast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 24 Mar 2026 14:54:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 08:41:10 +0000</lastBuildDate>
+    <item>
+      <title>JungleCast - Ethereal Canopy Drift</title>
+      <description>Ethereal Canopy Drift - A atmospheric jungle track at 162 BPM, Deep rolling, ethereal mood, in A minor.</description>
+      <pubDate>Sat, 28 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/junglecast-feed/audio/jungle_2026-03-28.mp3" length="5824157" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/junglecast-feed/audio/jungle_2026-03-28.mp3</guid>
+      <itunes:duration>2:16</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/junglecast-feed/cover.jpeg"/>
+      <itunes:author>Your Friendly Neighbourhood Jungle Bot</itunes:author>
+    </item>
     <item>
       <title>JungleCast - Logic Bomb</title>
       <description>Logic Bomb - A techstep track at 170 BPM, dark intricate driving mood, in F minor.</description>
